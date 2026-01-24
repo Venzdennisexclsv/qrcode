@@ -1,0 +1,7 @@
+{
+  "name": "Copy of QR Attendance System",
+  "description": "A comprehensive QR code-based attendance tracking system for schools with distinct teacher and student dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
